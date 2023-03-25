@@ -1,0 +1,38 @@
+# Automação E2E com Cypress
+
+![](https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2021/03/7-Common-Types-of-Software-Testing@1x.png?x82505)
+
+Esse projeto foi elaborado a partir das aulas asistidas do curso "Cypress: automação de testes E2E" que compõe a formação "Carreira QA: processos e automação de testes" da Alura.
+
+O curso introduz a conceitos e práticas no uso do Cypress como ferramenta de teste automatizados, seja E2E, que possivelmente é a maneira mais utilizada, como também em alguns testes de API e componentes. 
+
+Abaixo estão os assuntos abordados que ensinados no curso:
+
+1. Sobre o Cypress:
+   1. Instalação e configuração;
+   2. Comandos básicos;
+   3. Primeiro teste. 
+2. Interação com elementos HTML:
+   1. Identificando elementos;
+   2. Comando __contains__;
+   3. Suite de testes mais completas.
+3. Mais recursos do Cypress:
+   1. Relatórios e playback;
+   2. Executando testes em modo __headless__;
+   3. Dashboards;
+   4. Mocha e Mochawesome;
+   5. Comandos personalizados;
+   6. Identificando erros no código.
+4. Mais possibilidades de teste:
+   1. Utilizando massa de dados;
+   2. Json e objetos javascript;
+   3. __require__ e __forEach__;
+   4. Requisições em APIs REST;
+   5. Boas práticas com dados sensíveis (__env__ e __log:false__).
+5. Padronização e boas práticas:
+   1. Refatorando;
+   2. Evitando __flaky tests__;
+   3. Melhores práticas de escrita;
+   4. Boas práticas com mocks e stubs.
+
+Particularmente achei muito produtivo todo o conteúdo apresentado. Especialmente pelo fato de apresentar uma introdução geral sobre parte das principais utilizadades do Cypress. Acredito que o curso traz alguns pontos que estão além do 'basicão' e mostra mais possibilidades. Esclarece melhor pontos como __comands__ e __fixtures__ e alguns pontos sobre melhores práticas, por exemplo. 👨🏽‍💻
