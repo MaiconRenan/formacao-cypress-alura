@@ -4,9 +4,9 @@
 
 Esse projeto foi elaborado a partir das aulas asistidas do curso "Cypress: automação de testes E2E" que compõe a formação "Carreira QA: processos e automação de testes" da Alura.
 
-O curso introduz a conceitos e práticas no uso do Cypress como ferramenta de teste automatizados, seja E2E, que possivelmente é a maneira mais utilizada, como também em alguns testes de API e componentes. 
+O curso introduz a conceitos e práticas no uso do Cypress como ferramenta de teste automatizado, seja E2E, que possivelmente é a maneira mais utilizada, como também em alguns testes de API e componentes. 
 
-Abaixo estão os assuntos abordados que ensinados no curso:
+Abaixo estão alguns dos assuntos abordados no curso:
 
 1. Sobre o Cypress:
    1. Instalação e configuração;
@@ -35,4 +35,4 @@ Abaixo estão os assuntos abordados que ensinados no curso:
    3. Melhores práticas de escrita;
    4. Boas práticas com mocks e stubs.
 
-Particularmente achei muito produtivo todo o conteúdo apresentado. Especialmente pelo fato de apresentar uma introdução geral sobre parte das principais utilizadades do Cypress. Acredito que o curso traz alguns pontos que estão além do 'basicão' e mostra mais possibilidades. Esclarece melhor pontos como __comands__ e __fixtures__ e alguns pontos sobre melhores práticas, por exemplo. 👨🏽‍💻
+Particularmente achei muito produtivo todo o conteúdo ministrado. Especialmente pelo fato de apresentar uma introdução geral sobre parte das principais utilizadades do Cypress. Acredito que o curso traz alguns pontos que estão além do 'basicão' e mostra mais possibilidades. Esclarece melhor pontos como __comands__ e __fixtures__ e alguns pontos sobre melhores práticas, por exemplo. 👨🏽‍💻
